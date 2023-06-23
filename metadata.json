@@ -1,0 +1,14 @@
+{
+  "description": "Set applications to all desktops when they create windows.",
+  "extension-id": "all-desktop-windows",
+  "gettext-domain": "gnome-shell-extension-all-desktop-windows",
+  "name": "Windows should be on all desktops",
+  "original-authors": [
+  ],
+  "settings-schema": "org.gnome.shell.extensions.all-desktop-windows",
+  "shell-version": [
+    "44"
+  ],
+  "version": 1,
+  "uuid": "all-desktop-windows@tbepdb"
+}
